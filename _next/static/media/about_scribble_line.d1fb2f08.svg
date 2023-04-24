@@ -1,0 +1,20 @@
+<svg width="1287" height="335" viewBox="0 0 1287 335" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M-15.5 331C257 124 825.5 462.5 1109.5 192.5C1393.5 -77.4999 1030.42 -42.0237 1283 214" stroke="url(#paint0_linear_1373_8594)" stroke-width="10"/>
+<defs>
+<linearGradient id="paint0_linear_1373_8594" x1="633.75" y1="5.41431" x2="633.75" y2="331" gradientUnits="userSpaceOnUse">
+<stop stop-color="#CF9239">
+    <animate attributeName="stop-color" values="#CF9239; #F5A531; #BB4854;#7026A6;#CF9239" dur="8s" repeatCount="indefinite"></animate>
+</stop>
+<stop offset="0.33125" stop-color="#BB4854">
+    <animate attributeName="stop-color" values="#290B87; #BB4854; #CF9239;#7026A6;#290B87" dur="4s" repeatCount="indefinite"></animate>
+</stop>
+<stop offset="0.648958" stop-color="#7026A6">
+    <animate attributeName="stop-color" values="#7026A6; #290B87; #BB4854;#7026A6" dur="4s" repeatCount="indefinite"></animate>
+</stop>
+<stop offset="0.985733" stop-color="#290B87">
+    <animate attributeName="stop-color" values="#7026A6; #290B87; #CF9239;#7026A6" dur="4s" repeatCount="indefinite"></animate>
+
+</stop>
+</linearGradient>
+</defs>
+</svg>
